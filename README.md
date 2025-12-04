@@ -16,7 +16,7 @@ A simple demonstration application built with [Next.js](https://nextjs.org/) to 
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/Sani-Mohibur/nextjs-demo.git](https://github.com/Sani-Mohibur/nextjs-demo.git)
+    git clone https://github.com/Sani-Mohibur/nextjs-demo.git
     cd nextjs-demo
     ```
 
