@@ -14,27 +14,33 @@ A simple demonstration application built with [Next.js](https://nextjs.org/) to 
 
 ## Installation
 
-1.  **Clone the repository:**
-    ```bash
-    git clone https://github.com/Sani-Mohibur/nextjs-demo.git
-    cd nextjs-demo
-    ```
+1. **Clone the repository:**
 
-2.  **Install dependencies:**
+   ```bash
+   git clone https://github.com/Sani-Mohibur/nextjs-demo.git
+   ```
+
+2. **Navigate into the project folder:**
+
+   ```bash
+   cd nextjs-demo
+   ```
+
+3.  **Install dependencies:**
     ```bash
     npm install
     # or
     # yarn install
     ```
 
-3.  **Run the development server:**
+4.  **Run the development server:**
     ```bash
     npm run dev
     # or
     # yarn dev
     ```
 
-4.  **Open in browser:**
+5.  **Open in browser:**
     Open [http://localhost:3000](http://localhost:3000) with your browser to view the application.
 
 ## Technologies Used
